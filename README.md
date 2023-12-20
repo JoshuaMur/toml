@@ -7,7 +7,7 @@ Tom's Obvious, Minimal Language.
 By Tom Preston-Werner, Pradyun Gedam, et al.
 
 > This repository contains the in-development version of the TOML specification.
-> You can find the released versions at https://toml.io.
+> You can find the released versions at https://toml.io
 
 ## Objectives
 
